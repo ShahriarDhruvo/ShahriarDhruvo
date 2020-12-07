@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Who am I ?
+### 👋 Who am I?
 Hey, I'm **Shahriar Elahi Dhruvo** currently studying B.Sc in **Software Engineering** in **Shahjalal University of Science and Technology** Sylhet, Bangladesh. I am:
 
 - Open-Source Enthusiast
