@@ -28,9 +28,9 @@ Hey, I'm **Shahriar Elahi Dhruvo** currently studying B.Sc in **Software Enginee
 
 #### 🔍 Want to know more? [Here is my CV](https://drive.google.com/drive/folders/112JaBQIAH4TzIjVFVvsVQwxXj1dHtWEZ?usp=sharing)
 
-#### 🏆 Achievements:
+#### 🏆 Achievements & [Certificates](https://drive.google.com/drive/folders/19i6rKYl4pimiWrv6qo265XfZdinTxexP?usp=sharing):
 
-Was one of the top **7** team in HackTheVerse a hackathon organized by Dhaka University. [Certificates](https://drive.google.com/drive/folders/19i6rKYl4pimiWrv6qo265XfZdinTxexP?usp=sharing)
+Was one of the top **7** team in HackTheVerse a hackathon organized by Dhaka University
 
 #### 🔨 Some of my works:
 
