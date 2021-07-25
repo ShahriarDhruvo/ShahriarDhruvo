@@ -71,7 +71,7 @@ Was one of the top **7** team in HackTheVerse a hackathon organized by Dhaka Uni
     </p>
 </a> -->
 
-![](https://activity-graph.herokuapp.com/graph?username=ShahriarDhruvo&theme=github-light)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=ShahriarDhruvo&theme=github-light) -->
 
 [<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShahriarDhruvo&show_icons=true&count_private=true&bg_color=fff"/>](https://github.com/ShahriarDhruvo/)
 
