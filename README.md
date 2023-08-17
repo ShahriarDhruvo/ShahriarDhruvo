@@ -21,11 +21,13 @@ Hey, I'm **Shahriar Elahi Dhruvo** currently studying B.Sc in **Software Enginee
 - Linux Enthusiast (Currently using [Manjaro](https://manjaro.org/))
 - Full Stack Web Developer (Django | React)
 
-[![Email Address](https://img.shields.io/badge/%20-shahriarelahi3062@gmail.com-black?color=ffffff&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:shahriarelahi119@gmail.com)
+[![Email Address](https://img.shields.io/badge/%20-shahriardhruvo119@gmail.com-black?color=ffffff&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:shahriardhruvo119@gmail.com)
 [![Portfolio](https://img.shields.io/badge/%20-shahriardhruvo.netlify.app-black?color=ffffff&labelColor=D44638&logo=googleearth&logoColor=fff)](https://shahriardhruvo.netlify.app/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-ShahriarDhruvo-black?color=ffffff&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahriar-dhruvo-613641190/)
 [![Twitter Follow](https://img.shields.io/badge/%20-Shahriar%20Dhruvo-black?color=ffffff&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/ShahriarDhruvo)
+<!-- 
 [![Facebook Follow](https://img.shields.io/badge/%20-Shahriar%20Elahi%20Dhruvo-black?color=ffffff&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ShahriarDhruvo)
+-->
 
 #### 🔍 Want to know more? [Here is my CV](https://drive.google.com/drive/folders/112JaBQIAH4TzIjVFVvsVQwxXj1dHtWEZ?usp=sharing)
 
